@@ -1,0 +1,3 @@
+Currently using Mixamo animation graphs on unity, so animation is a bit choppy. The IK system is a bit faulty as well, so I think I have laregely omitted the code I have made for it. 
+This uses the CM Freelook Camera following the player, and use this or else the camera will not work properly. For player animations, I am planning to replace the current heirarchy(taken by the 
+current scripts) and replacing them with blend trees to make animations smoother. 
